@@ -1,9 +1,10 @@
-[README.md](https://github.com/user-attachments/files/34913572/README.md)
 # PROYECTO2_PARTE_2
 Este conjunto de datos recopila información sobre comportamiento de compra e interacción en una plataforma de comercio electrónico (E-commerce) a nivel de cliente.
+
 # Proyecto 2 - Parte 2: Regresión Lineal Múltiple
 
 **Alumnos:** Ricardo Alexis Lagos Mora y Mariana González
+
 **Universidad Provincial del Sudoeste**
 
 ## Descripción
@@ -14,7 +15,7 @@ Se entrenó un modelo de Regresión Lineal Múltiple sobre el dataset *Ecom Expe
 - **Features (X):** `Age` (edad), `Monthly Income` (ingreso mensual) y `Transaction Time` (tiempo de transacción)
 - **Partición:** 80 % entrenamiento (1889 muestras) / 20 % test (473 muestras), `random_state=42`
 
-Notebook: `RICARDO_ALEXIS_LAGOS_MORA_MARIANA_GONZALEZ.ipynb`
+Notebook: [RICARDO_ALEXIS_LAGOS_MORA_MARIANA_GONZALEZ.ipynb](RICARDO_ALEXIS_LAGOS_MORA_MARIANA_GONZALEZ.ipynb)
 
 ## Resultados
 
